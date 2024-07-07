@@ -1,4 +1,4 @@
-<center><img width=60% src="https://github.com/hkyuuu00/SeoulParkingArea/assets/155419559/5dea1311-aeb3-4763-b1b7-29fef4b3625e"></center><br/>
+<center><img width=100% src="https://github.com/hkyuuu00/SeoulParkingArea/assets/155419559/030d8295-78b6-495e-9536-bd293465a2da"></center><br/>
 # 서울시 주차장 실시간 검색 서비스
 
 ### 📖 프로젝트 개요
