@@ -67,5 +67,5 @@
 - <a href="https://data.seoul.go.kr/dataList/OA-13122/A/1/datasetView.do;jsessionid=11A5AF72A8C9ABA56290C26298AFE347.new_portal-svr-21">서울시 시영주차장 API</a> Key 발급
 - <a href="https://apis.map.kakao.com/web/">Kakao MAP API</a> Key 발급
 - ParkingSearchController.java와 parkingInfo.html에 API Key 추가
-- Maven 의존성 설치해주고 스프링부트 서버 실행
+- Maven 의존성 설치해주고 SpringBoot 서버 실행
 
