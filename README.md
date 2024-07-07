@@ -6,7 +6,7 @@
 <br/>
 ### 🚀 프로젝트 목표
 서울시 시영 주차장 API를 활용하여 실시간으로 주차장의 공간을 조회할 수 있는 서비스를 구현.
-<br/>
+<br/><br/><br/>
 
 ## 📝 프로젝트 설명
 
@@ -63,14 +63,7 @@
 ### 📝 필요한 작업
 - Java 21 환경변수 설정
 - <a href="https://data.seoul.go.kr/dataList/OA-13122/A/1/datasetView.do;jsessionid=11A5AF72A8C9ABA56290C26298AFE347.new_portal-svr-21">서울시 시영주차장 API</a> Key 발급
-- Kakao MAP API Key 발급
+- <a href="https://apis.map.kakao.com/web/">Kakao MAP API</a> Key 발급
 - ParkingSearchController.java와 parkingInfo.html에 API Key 추가
-- 
+- Maven 의존성 설치해주고 스프링부트 서버 실행
 
-### 📦 설치 방법
-프로젝트를 로컬에 설치하는 방법을 단계별로 설명합니다.
-
-```sh
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
