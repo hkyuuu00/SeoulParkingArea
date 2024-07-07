@@ -14,7 +14,7 @@
 서울시 주차장 실시간 검색 서비스는 서울시의 자치구를 검색하여 주차장의 위치정보를 지도로 보여주고 가격, 운영시간, 실시간으로 주차공간을 확인할 수 있는 서비스
 <br/>
 ### 🗺 기술 설계도
-<img width=100% src="https://github.com/hkyuuu00/SeoulParkingInfo/assets/155419559/dc7e6151-85b8-4609-882f-42196a4cd5bc"><br/><br/>
+<img width=100% src="https://github.com/hkyuuu00/SeoulParkingArea/assets/155419559/17716c4b-b173-4813-9323-6d5523b1e354"><br/><br/>
 
 
 ### 💻 기술 스택
@@ -26,13 +26,13 @@
 
 
 ### ✨ 주요 기능 및 이미지
-<img width=100% src="https://github.com/hkyuuu00/SeoulParkingInfo/assets/155419559/556904cf-3956-4ba7-be36-c455b27c66cb"><br/><br/>
+<img width=100% src="https://github.com/hkyuuu00/SeoulParkingArea/assets/155419559/d914d171-844c-4301-a963-2677f92968bd"><br/><br/>
 - **검색:** 검색창에 자치구를 검색 (ex. 강남구), 입력값이 없이 검색하면 전체 주차장 검색<br/>
 - **조회:** 주차장 이름과 주소, 현재 주차장의 실시간 데이터를 리스트로 구현<br/>
 - **상세정보:** 주차장 이름을 클릭하여 주차장 상세정보 팝업창을 띄울 수 있음<br/><br/><br/>
 
 
-<img width=100% src="https://github.com/hkyuuu00/SeoulParkingInfo/assets/155419559/3ca54a54-9cb3-459d-8bf6-d93c9a3e081b"><br/><br/>
+<img width=100% src="https://github.com/hkyuuu00/SeoulParkingArea/assets/155419559/4a175e5c-685f-4947-8f1b-bf0cb35e38ed"><br/><br/>
 - **위치정보:** 해당 주차장의 위치정보를 지도를 통해 확인<br/>
 - **상세정보:** 요일별 운영 시간과 시간별 금액을 확인할 수 있으며, 실시간 주차 공간을 확인 가능<br/><br/><br/>
 
